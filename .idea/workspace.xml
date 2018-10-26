@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a13ec148-ffe8-46ad-8111-f4cc28ff72a1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/data/przykladOdczytZapis/db2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/data/przykladOdczytZapis/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/data/przykladOdczytZapis/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/przykladAjax.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/przykladAjax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/przykladOdczytZapis.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/przykladOdczytZapis.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/przykladAjax/js/front.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/przykladAjax/js/front.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/zadanieDnia/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/zadanieDnia/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/zadanieDnia/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/zadanieDnia/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/zadanieDnia/js/front.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/zadanieDnia/js/front.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/zadanieDnia.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/zadanieDnia.js" afterDir="false" />
-    </list>
+    <list default="true" id="a13ec148-ffe8-46ad-8111-f4cc28ff72a1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/app/public/zadanieDnia/js/front.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="348">
-              <caret line="50" column="17" lean-forward="true" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+              <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -53,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/app/data/przykladOdczytZapis/db2.json">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -61,8 +50,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/public/zadanieDnia/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="180">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -96,6 +85,8 @@
       <find>des</find>
       <find>selec</find>
       <find>todo-li</find>
+      <find>head</find>
+      <find>h1</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -125,7 +116,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="27" />
     <option name="width" value="917" />
@@ -146,41 +137,7 @@
             <path>
               <item name="Node.js_challenge_dzien_7" type="b2602c69:ProjectViewProjectNode" />
               <item name="Node.js_challenge_dzien_7" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Node.js_challenge_dzien_7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Node.js_challenge_dzien_7" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Node.js_challenge_dzien_7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Node.js_challenge_dzien_7" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="przykladOdczytZapis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Node.js_challenge_dzien_7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Node.js_challenge_dzien_7" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Node.js_challenge_dzien_7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Node.js_challenge_dzien_7" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="zadanieDnia" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Node.js_challenge_dzien_7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Node.js_challenge_dzien_7" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="zadanieDnia" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="s" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -271,16 +228,15 @@
       <updated>1540473346162</updated>
       <workItem from="1540473347519" duration="7050000" />
       <workItem from="1540481054325" duration="7424000" />
-      <workItem from="1540540859799" duration="19368000" />
+      <workItem from="1540540859799" duration="19865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33842000" />
+    <option name="totallyTimeSpent" value="34339000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -511,14 +467,14 @@
     <entry file="file://$PROJECT_DIR$/app/public/zadanieDnia/js/front.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
-          <caret line="50" column="17" lean-forward="true" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/data/przykladOdczytZapis/db2.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -552,8 +508,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/public/zadanieDnia/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="180">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
