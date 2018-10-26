@@ -14,6 +14,17 @@ app.post('/reverse', (req, res) => {
     });
 });
 
+
+//dodane przezemnie
+app.post('/newtext', (req, res) => {
+    const text = req.body.text;
+
+    const reversed = text+ 'new'; //Odwrócenie ciągu znaków
+    res.json({
+        reversed, //Pamiętasz ten skrótowy zapis (reversed : reversed)?
+    });
+});
+
 app.listen(3000, () => {
     console.log('Serwer uruchomiony na porcie 3000');
 });

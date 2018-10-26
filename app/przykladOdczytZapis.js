@@ -1,21 +1,41 @@
 const fs = require('fs');
 const express = require('express');
-
+const bodyParser = require('body-parser');
 const app = express();
+// app.use(bodyParser.json());
 
-const DB_FILE = './data/przykladOdczytZapis/db.json';
+
+const DB_FILE = './data/przykladOdczytZapis/db2.json';
 
 app.get('/shopping_list', (req, res) => {
     fs.readFile(DB_FILE, (err, data) => {
         if (!err){
             const shoppingList = JSON.parse(data);
-            res.send('Lista zakupów: ' + shoppingList.join(', '));
+            shoppingList.forEach(el => {  res.send('Lista zakupów: ' + el.name);}
+            );
+
         } else {
             console.log('Błąd odczytu pliku', err);
             res.send('Wystąpił błąd odczytu.');
         }
     });
 });
+
+
+
+
+
+app.post('/#', (req, res) => {
+    const text = req.body.text;
+    const reversed = text.split('').reverse().join(''); //Odwrócenie ciągu znaków
+    res.json({
+        reversed, //Pamiętasz ten skrótowy zapis (reversed : reversed)?
+    });
+});
+
+
+
+
 
 app.get('/add', (req, res) => {
     fs.readFile(DB_FILE, (err, data) => {//Odczytaj plik

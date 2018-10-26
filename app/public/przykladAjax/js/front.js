@@ -19,4 +19,6 @@ $(function(){
             input.val(ans.reversed);
         });
     });
+
+
 });
